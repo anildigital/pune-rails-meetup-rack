@@ -32,3 +32,8 @@
        'Cache‐Control' => 'max‐age=60'},   
       ["Hello World"] 
     ]
+
+!SLIDE smaller code
+
+    @@@ruby
+    response = Rack::Response.new('Hello World!') response.set_cookie('sess-id', 'abcde') response.finish

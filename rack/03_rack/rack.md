@@ -27,6 +27,9 @@
 ### GitHub page says
 ## Rack provides a minimal, modular and adaptable interface for developing web applications in Ruby. By wrapping HTTP requests and responses in the simplest way possible, it unifies and distills the API for web servers, web frameworks, and software in between (the so-called middleware) into a single method call. ###
 
+!SLIDE center
+![Rack](rack-logo.png)
+
 !SLIDE
 ## Rack is created by Christian Neukirchen
 

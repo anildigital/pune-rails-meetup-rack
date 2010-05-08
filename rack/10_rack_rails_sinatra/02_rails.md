@@ -8,6 +8,12 @@
 * Rails is a citizen in Rack ecosystem
 * Sinatra & all other rack applications too!
 
+!SLIDE bullets incremental
+
+# Rails
+* ActionController::Dispatcher.new is the primary Rack application object of a Rails application. 
+* Any Rack compliant web server should be using ActionController::Dispatcher.new object to serve a Rails application.
+
 !SLIDE smbullets incremental
 
 # ActionDispatch
