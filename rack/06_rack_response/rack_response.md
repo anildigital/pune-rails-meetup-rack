@@ -36,4 +36,6 @@
 !SLIDE smaller code
 
     @@@ruby
-    response = Rack::Response.new('Hello World!') response.set_cookie('sess-id', 'abcde') response.finish
+    response = Rack::Response.new('Hello World!') 
+    response.set_cookie('sess-id', 'abcde') 
+    response.finish
