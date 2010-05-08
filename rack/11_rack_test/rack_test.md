@@ -1,0 +1,7 @@
+!SLIDE subsection
+# Testing 
+
+!SLIDE bullets incremental small
+# Rack::Test
+* Rack::Test is a small, simple testing API for Rack apps
+* It can be used on its own or as a reusable starting point for Web frameworks and testing libraries to build on.
