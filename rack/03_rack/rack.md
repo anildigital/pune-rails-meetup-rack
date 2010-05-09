@@ -40,7 +40,7 @@
 # What is a Rack application?
 
 !SLIDE
-###A Rack application is an Ruby object (not a class) that responds to call. It takes exactly one argument, the environment and returns an Array of exactly three values: The status, the headers, and the body.###
+###A Rack application is a Ruby object (not a class) that responds to call. It takes exactly one argument, the environment and returns an Array of exactly three values: The status, the headers, and the body.###
 
 !SLIDE subsection
 # Rack SPEC
