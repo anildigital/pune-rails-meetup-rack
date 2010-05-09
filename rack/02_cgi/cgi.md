@@ -1,7 +1,7 @@
 !SLIDE subsection
 # CGI
 
-!SLIDE small center bullets incremental
+!SLIDE small bullets incremental
 # CGI 
 
 * A standard that defines how webserver software can delegate the generation of webpages to a console application. 
