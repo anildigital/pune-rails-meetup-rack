@@ -1,5 +1,5 @@
 !SLIDE smbullets
-# Credits
+# References
 * http://remi.org/
 * Rack in Rails 3 Presentation by Ryan Tomayko
 * @raggi #rack@freenode IRC channel
