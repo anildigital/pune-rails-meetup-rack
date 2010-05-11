@@ -27,10 +27,10 @@
 
     @@@code
     [ 200, 
-      {'Content‐Type' => 'text/plain',    
-       'Content‐Length' => '11',    
-       'Cache‐Control' => 'max‐age=60'},   
-      ["Hello World"] 
+      {'Content‐Type' => 'text/plain',
+       'Content‐Length' => '11',
+       'Cache‐Control' => 'max‐age=60'},
+      ["Hello World"] 
     ]
 
 !SLIDE smaller code

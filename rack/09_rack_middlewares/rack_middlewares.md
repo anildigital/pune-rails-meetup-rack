@@ -77,7 +77,7 @@
 !SLIDE smbullets incremental small
 
 ## Rack::Reloader
-* Rack::Reloader checks on every request, but at most every secs seconds, if a file loaded changed, and reloads it, logging to rack.errors.
+* Rack::Reloader checks on every request, but at most every <secs> seconds, if a file loaded changed, and reloads it, logging to rack.errors.
 * It comes with Rack
 
 !SLIDE smbullets incremental small
